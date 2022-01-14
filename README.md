@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nwpistols ( Phil )
 - 👀 I’m interested in ...fintech and VR
-- 🌱 I’m currently learning ...Programming and Financial Libraries
+- 🌱 I’m currently learning ...  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...bphilhills@gmail.com
 
