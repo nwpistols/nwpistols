@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nwpistols ( Phil )
-- 👀 I’m interested in ...fintech and VR
-- 🌱 I’m currently learning ...  AWS Lex Console
-- 💞️ I’m looking to collaborate on ...Web3 fintech
-- 📫 How to reach me ...bphilhills@gmail.com
+- 👀 I’m interested in ...AI
+- 🌱 I’m currently learning ... Hoare's Quickselect Algorithm
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me .https://www.linkedin.com/in/philhills/
 
 <!---
 nwpistols/nwpistols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
